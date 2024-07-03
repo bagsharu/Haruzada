@@ -2,3 +2,28 @@ body {
     background-color: black;
     color: azure;
 }
+
+h1 {
+    color: azure;
+    text-align: center;
+    font-family:"Lucida Console";
+    font-weight: bold;
+
+}
+
+span {
+    color: #591b91;
+}
+
+p {
+    color: azure;
+    text-align: justify;
+    font-family:"Lucida Console";
+}
+
+a {
+    border: 2px solid #591b91;
+    border-radius: 5px;
+    color: azure;
+    padding: 10px;
+}
