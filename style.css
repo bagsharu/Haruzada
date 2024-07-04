@@ -20,7 +20,25 @@ h1 {
     color: #591b91;
 }
 
+.texto-destaque {
+    color: #883fc9;
+}
+
+.contato {
+    color:#591b91;
+    font-weight: bold;
+}
+
 p {
+    color: azure;
+    text-align: justify;
+    font-family:"Lucida Console";
+}
+
+p2 {
+    margin: 10px;
+    border: 2px solid black;
+    padding: 5px;
     color: azure;
     text-align: justify;
     font-family:"Lucida Console";
