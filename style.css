@@ -12,7 +12,6 @@ body {
 
 h1 {
     color: azure;
-    text-align: center;
     font-family:"Lucida Console";
     font-weight: bold;
 
@@ -23,6 +22,13 @@ h1 {
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+
+.container__conteudo {
+    width: 615px;
+}
+.container__conteudo_titulo {
+    font-size: 56px;
 }
 
 .titulo-destaque {
@@ -40,7 +46,6 @@ h1 {
 
 p {
     color: azure;
-    text-align: justify;
     font-family:"Lucida Console";
 }
 
@@ -49,7 +54,6 @@ p2 {
     border: 2px solid black;
     padding: 5px;
     color: azure;
-    text-align: justify;
     font-family:"Lucida Console";
 }
 
