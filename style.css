@@ -55,6 +55,16 @@ h1 {
     display: flex;
     justify-content: space-between;
 }
+
+.apresentacao__links_botoes{
+    background-color: #883fc9;
+    width: 280px;
+    text-align: center;
+    border-radius: 16px;
+    font-size: 24px;
+    padding: 21.5px 0;
+}
+
 .contato {
     color:#591b91;
     font-weight: bold;
