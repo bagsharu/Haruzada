@@ -21,7 +21,7 @@ h1 {
 }
 
 .container {
-    margin: 10%;
+    margin: 10% 15%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -29,6 +29,9 @@ h1 {
 
 .container__conteudo {
     width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
 }
 .container__conteudo_titulo {
     font-size: 56px;
@@ -62,7 +65,7 @@ h1 {
     width: 280px;
     text-align: center;
     border-radius: 16px;
-    font-size: 24px;
+    font-size: 28px;
     padding: 21.5px 0;
     text-decoration: none;
 }
