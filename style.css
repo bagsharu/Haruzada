@@ -51,7 +51,10 @@ h1 {
 .texto-destaque {
     color: #883fc9;
 }
-
+.apresentacao__links {
+    display: flex;
+    justify-content: space-between;
+}
 .contato {
     color:#591b91;
     font-weight: bold;
