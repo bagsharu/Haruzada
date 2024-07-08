@@ -59,7 +59,7 @@
     font-size: 32px;
 }
 .apresentacao__links_botoes{
-    width: 320px;
+    width: 400px;
     text-align: center;
     border-radius: 16px;
     font-size: 28px;
@@ -94,7 +94,7 @@ p {
 
 a {
     border: 2px solid #591b91;
-    border-radius: 8px;
+    border-radius: 16px;
     color: azure;
     padding: 10px;
     font-size: 24px;
