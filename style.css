@@ -69,6 +69,10 @@
     padding: 21.5px 0;
     text-decoration: none;
 }
+.apresentacao__links_botoes:hover {
+    background-color: #883fc9;
+    cursor: pointer;
+}
 
 .contato {
     color:#591b91;
