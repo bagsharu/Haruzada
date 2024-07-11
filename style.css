@@ -25,15 +25,3 @@ p {
     text-align: justify;
     text-justify: inter-word;
 }
-
-a {
-    border: 2px solid #591b91;
-    border-radius: 16px;
-    color: azure;
-    padding: 10px;
-    font-size: 24px;
-    font-family: "Montserrat", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 600;
-    font-style: normal;
-}

@@ -61,6 +61,12 @@
     font-size: 28px;
     padding: 21.5px 0;
     text-decoration: none;
+    border: 2px solid #591b91;
+    color: azure;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
 }
 .apresentacao__links_botoes:hover {
     background-color: #883fc9;
