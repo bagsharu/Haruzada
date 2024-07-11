@@ -11,14 +11,14 @@
     justify-content: space-evenly;
     font-size: 40px;
     text-decoration: none;
-    color: azure;
+    color: #591b91;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
 
 }
 
 .cabecalho__menu__links:hover {
-    color: #591b91;
+    color: #883fc9;
     cursor: pointer;
 }
 
