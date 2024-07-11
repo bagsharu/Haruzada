@@ -1,6 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
 
+:root {
+    --cor-principal: #591b91;
+    --cor-textos: #f0ffff;
+    --cor-fundo: #000000;
+    --cor-destaque: #883fc9;
+
+    --fonte-primaria:"Krona One", sans-serif;
+    --fonte-secundaria: "Montserrat", sans-serif;
+}
+
 * {
     margin: 0px;
     padding: 0px;
@@ -9,19 +19,19 @@
 body {
     /* height: 100vh; */
     box-sizing: border-box;
-    background-color: black;
-    color: azure;
+    background-color: var(--cor-fundo);
+    color: var(--cor-textos);
 }
 
 h1 {
-    color: azure;
-    font-family:"Lucida Console";
+    color: var(--cor-textos);
+    font-family:var(--fonte-primaria);
     font-weight: bold;
 }
 
 p {
-    color: azure;
-    font-family:"Lucida Console";
+    color: var(--cor-textos);
+    font-family:var(--fonte-secundaria);
     text-align: justify;
     text-justify: inter-word;
 }
