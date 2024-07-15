@@ -12,8 +12,8 @@
 }
 
 * {
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
 }
 
 body {
@@ -21,17 +21,4 @@ body {
     box-sizing: border-box;
     background-color: var(--cor-fundo);
     color: var(--cor-textos);
-}
-
-h1 {
-    color: var(--cor-textos);
-    font-family:var(--fonte-primaria);
-    font-weight: bold;
-}
-
-p {
-    color: var(--cor-textos);
-    font-family:var(--fonte-secundaria);
-    text-align: justify;
-    text-justify: inter-word;
 }
