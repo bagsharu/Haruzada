@@ -135,4 +135,8 @@ body {
     .container {
         flex-direction: column-reverse;
     }
+
+    .container__conteudo {
+        width: auto;
+    }
 }
