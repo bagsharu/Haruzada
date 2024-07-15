@@ -48,6 +48,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 82px;
 }
 
 .container__conteudo {
@@ -73,7 +74,6 @@ body {
 }
 
 .container__imagem {
-    margin: 10% 15%;
     width: 50%;
 }
 
